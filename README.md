@@ -45,6 +45,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamakank&show_icons=true&locale=en&layout=compact" alt="gamakank" /></p>
 
-<!--<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gamakank&show_icons=true&locale=en" alt="gamakank" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gamakank&show_icons=true&locale=en" alt="gamakank" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamakank&" alt="gamakank" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamakank&" alt="gamakank" /></p>
