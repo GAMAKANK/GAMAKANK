@@ -1,4 +1,4 @@
-<!--[![MasterHead](https://www.scaler.com/topics/images/hello-world-program-in-python.webp)]-->
+[![MasterHead](https://www.scaler.com/topics/images/hello-world-program-in-python.webp)]
 <h1 align="center">Hi 👋, I'm Akanksha Nigam</h1>
 <h3 align="center">A passionate developer from India pursuing B.Tech in Computer Science and Engineering from National Institute of Technology, Patna</h3>
 
