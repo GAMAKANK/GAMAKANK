@@ -1,13 +1,21 @@
 [![MasterHead](https://www.scaler.com/topics/images/hello-world-program-in-python.webp)]
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Akanksha Nigam</h1>
-<h3 align="center">A passionate developer from India pursuing B.Tech in Computer Science and Engineering from National Institute of Technology, Patna</h3>
+<h3 align="center">A passionate developer from India pursuing B.Tech in Computer Science from National Institute of Technology, Patna</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamakank&label=Profile%20views&color=0e75b6&style=flat" alt="gamakank" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamakank" alt="gamakank" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/akanksha1nigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akanksha1nigam" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akankshanigam1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akankshanigam1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akanksha-nigam-5a70012ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanksha-nigam-5a70012ab" height="30" width="40" /></a>
+<a href="https://kaggle.com/akanksha_1nigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akanksha_1nigam" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nigam_1aka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nigam_1aka" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sam_nigam79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sam_nigam79" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akanksh799work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akanksh799work" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akankshan8mql" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akankshan8mql" height="30" width="40" /></a>
@@ -21,5 +29,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamakank&show_icons=true&locale=en" alt="gamakank" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamakank&" alt="gamakank" /></p>
+
+
+
 
 
