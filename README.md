@@ -11,6 +11,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamakank" alt="gamakank" /></a> </p>
 
+
+- 🌱 I’m currently learning **DSA and Machine learning**
+
+- 📫 How to reach me **akankshan.ug23.cs@nitp.ac.in**
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akanksha-nigam-5a70012ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanksha-nigam-5a70012ab" height="30" width="40" /></a>
