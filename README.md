@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Akanksha Nigam</h1>
 <h3 align="center">A passionate developer from India pursuing B.Tech in Computer Science from National Institute of Technology, Patna</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamakank&label=Profile%20views&color=0e75b6&style=flat" alt="gamakank" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamakank&label=Profile%20views&color=0e75b6&style=flat" alt="gamakank" /> </p>-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamakank" alt="gamakank" /></a> </p>
 
