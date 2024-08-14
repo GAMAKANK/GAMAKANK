@@ -1,4 +1,4 @@
-[![MasterHead](https://www.scaler.com/topics/images/hello-world-program-in-python.webp)]
+[![MasterHead](https://www.scaler.com/topics/images/hello-world-program-in-python.webp) ]
 
 
 
