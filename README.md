@@ -4,8 +4,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Akanksha Nigam</h1>
-<h3 align="center">A passionate developer from India pursuing B.Tech in Computer Science from National Institute of Technology, Patna</h3>
+<h1 align="center" style="color:Tomato;">Hi 👋, I'm Akanksha Nigam</h1>
+<h3 align="center" style="color:Tomato;">A passionate developer from India pursuing B.Tech in Computer Science from National Institute of Technology, Patna</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamakank&label=Profile%20views&color=0e75b6&style=flat" alt="gamakank" /> </p>-->
 
